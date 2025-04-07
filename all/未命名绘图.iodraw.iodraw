@@ -13,10 +13,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="msw_S9B_tjh1XfqLMB2J-2" value="Residual C x H x W" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="168" y="59" width="163" height="49" as="geometry" />
+          <mxGeometry x="20" y="166" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="msw_S9B_tjh1XfqLMB2J-3" value="X Avg Pool C x 1 x W" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="381" y="59" width="175" height="49" as="geometry" />
+          <mxGeometry x="239" y="240" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="msw_S9B_tjh1XfqLMB2J-4" value="Y Avg Pool C x H x 1" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="383" y="158" width="171" height="49" as="geometry" />
