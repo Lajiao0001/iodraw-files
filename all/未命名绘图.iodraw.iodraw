@@ -19,10 +19,10 @@
           <mxGeometry x="239" y="240" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="msw_S9B_tjh1XfqLMB2J-4" value="Y Avg Pool C x H x 1" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="383" y="158" width="171" height="49" as="geometry" />
+          <mxGeometry x="490" y="240" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="msw_S9B_tjh1XfqLMB2J-5" value="Concat + Conv2d C/r x 1 x (W+H)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="606" y="100" width="218" height="66" as="geometry" />
+          <mxGeometry x="305" y="350" width="218" height="66" as="geometry" />
         </mxCell>
         <mxCell id="msw_S9B_tjh1XfqLMB2J-6" value="BatchNorm + Non-linear C/r x 1 x (W+H)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="874" y="100" width="202" height="66" as="geometry" />
